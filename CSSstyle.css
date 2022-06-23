@@ -1,0 +1,92 @@
+ *{
+    background-color: rgb(237, 225, 225);
+} */
+/* the header section */
+header.head
+{
+    background-color: black;
+   
+    
+}
+h1.nest{
+    float:none;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px dodgerblue;
+}
+p.nest1{
+    float: none;
+    font-size: 20px;
+    text-shadow: 1px 1px 1px dodgerblue;
+}
+h3.nest2{
+    float: none;
+    font-size: 30px;
+    text-shadow: 1px 1px 1px dodgerblue;
+}
+h3 {
+    text-shadow: 1px 1px 1px dodgerblue;
+}
+p.obj{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:maroon;
+}
+ul.info{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: maroon;
+}
+p.kin{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: maroon;
+}
+p.info1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: maroon;
+}
+li.fia{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: maroon;
+}
+p.can{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:midnightblue;
+}
+li.kin{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: maroon;
+
+}
+/* footer {
+    width: 100%;
+    height: 80px;
+    background: #172035;
+    position: absolute;
+    
+} */
+
+p#footer {
+    text-align: center;
+    color: white;
+    margin: 50px;
+    padding: 15px;
+    font-size: 1em;
+    background-color: #172035;
+    
+} 
+th {
+    background-color: maroon;
+    color: white;
+}
+td{
+    color: maroon;
+}
+li.info8{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: maroon;
+}
+
+
+
+
+
+
+
